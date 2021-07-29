@@ -28,7 +28,7 @@ data.json  README.md  requirements  s3.tf  upload2s3.py
 
 Assume that 'terraform' is already on the PATH
 ```
-$ terraform init
+$ terraform init   (this is for first time use)
 $ terraform apply
 $ python3 upload2s3.py
 ```
