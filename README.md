@@ -2,8 +2,8 @@
 
 ## Instructions
 This exercise demonstrates
-- Use Terraform to provision an AWS S3 bucket
-- Use a programming language (Python) to transfer files to S3
+- The use of Terraform to provision an AWS S3 bucket
+- The use of a programming language (Python) to interact with/transfer files to S3
 
 ## Prerequisites
 - Python3 (3.6 or above)
