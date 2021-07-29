@@ -13,8 +13,8 @@ This exercise demonstrates
 ``` 
 $ cat ~/.aws/credentials
 [default]
-aws_access_key_id = **[your access key id]**
-aws_secret_access_key = **[your secret access key]**
+aws_access_key_id = [your access key id]
+aws_secret_access_key = [your secret access key]
 ```
 
 ## Run the example
