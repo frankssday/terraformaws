@@ -2,7 +2,7 @@
 
 ## Prerequites
 - Python3 (3.6 or above)
-- Terraform  (can be downloaded from [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html) )
+- Terraform  (can be downloaded from [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html))
 - Python package Boto3
 
 
