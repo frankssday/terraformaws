@@ -8,7 +8,7 @@ This exercise demonstrates
 ## Prerequisites
 - Python3 (3.6 or above)
 - Terraform  (can be downloaded from [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html))
-- Python package Boto3
+- Python package Boto3 [https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html] (https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html))
 - AWS credentials properly configured. On Linux or Mac, this means
 ``` 
 $ cat ~/.aws/credentials
